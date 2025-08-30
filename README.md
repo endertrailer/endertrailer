@@ -6,12 +6,12 @@ I'm an 18-year-old Computer Science student passionate about **full-stack web de
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Currently pursuing a **Degree in Computer Science** at RBU Nagpiit
+- 🎓 Currently pursuing a **Degree in Computer Science** at RBU Nagpur
 - 📚 Learning **React, Node.js, Express.js, Flutter**.
 - 💻 Comfortable with **Linux, Git, and Neovim**.
-- 🌱 Currently exploring **Android & Mobile App Development**.
+- 🌱 Currently exploring **Mobile App Development and DSA**.
 - 🔭 Building projects to sharpen my problem-solving and development skills.
-- ⚡ Fun fact: I love diving deep into stories like **Re:Zero** when I’m not coding!
+
 
 ---
 
