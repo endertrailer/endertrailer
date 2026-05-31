@@ -36,10 +36,7 @@ I'm an 18-year-old Computer Science student passionate about **full-stack web de
 
 ---
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter / X](#)  
-- 📧 **masoomanis@example.com**
+  
 
 ---
 
