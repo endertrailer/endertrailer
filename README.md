@@ -1,31 +1,44 @@
 # Hi there, I'm Masoom Anis 👋
 
 Welcome to my GitHub!  
-I'm an 18-year-old Computer Science student passionate about **full-stack web development**, **mobile apps**, and **open-source**. 🚀
+I'm a Computer Science student focused on **backend systems with Go**, **cross-platform mobile apps with Flutter**, and **Linux environment automation**. 🚀
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Currently pursuing a **Degree in Computer Science** at RBU Nagpur
-- 📚 Learning **React, Node.js, Express.js, Flutter**.
-- 💻 Comfortable with **Linux, Git, and Neovim**.
-- 🌱 Currently exploring **Mobile App Development and DSA**.
-- 🔭 Building projects to sharpen my problem-solving and development skills.
-
+- 🎓 Pursuing a **B.Tech in Computer Science**
+- 🛠️ Core Focus: **Go (Gin, SQLX), PostgreSQL, Flutter, and Dart**
+- 💻 Environment: **Arch Linux / Ubuntu, Neovim, Tmux, Bash**
+- 🧠 Actively practicing **DSA and competitive programming** in C++/Go
+- 🔭 Building concurrent backend systems, mobile utilities, and automation scripts
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express.js  
-- **Databases:** PostgreSQL, Hive (Flutter)  
-- **Mobile:** Flutter, Android Development  
-- **Tools:** Git, Neovim, Linux, Tmux  
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Go, Dart, C++, Python, JavaScript, SQL, HTML/CSS |
+| **Backend & Cloud**| Go (Gin, SQLX), PostgreSQL, REST APIs, Firebase Cloud Functions, GCP |
+| **Mobile** | Flutter, Hive, Native Android Plugins |
+| **Tools & OS** | Linux (Arch, Ubuntu), Neovim, Git, Tmux, Bash |
 
 ---
 
 ## 📌 Featured Projects
- 
+
+* **AgriChain**  
+  *Farm-to-market logistics platform built for the Enigma 2.0 Hackathon.*  
+  * **Backend:** Concurrent Go backend parsing soil and pricing metrics.  
+  * **Frontend/Mobile:** Offline-first Flutter mobile application.
+
+* **Abedi Calendar App**  
+  *Cross-platform schedule tracking utility.*  
+  * **Tech:** Flutter, WebViews with history navigation, automated Firebase Cloud Function daily push notifications.
+
+* **System Clipboard API Automation**  
+  *Lightweight Linux background script automating text lookups via local API integrations.*  
+  * **Tech:** Python, Shell/Bash hooks.
 
 ---
 
@@ -36,8 +49,4 @@ I'm an 18-year-old Computer Science student passionate about **full-stack web de
 
 ---
 
-  
-
----
-
-⭐️ Thanks for visiting my profile! Feel free to check out my repos and contribute. 🚀
+⭐️ Thanks for visiting my profile! Feel free to check out my repos or reach out. 🚀
